@@ -1,1 +1,1 @@
-# -fullstack-project-group-practices
+# FullStack Project Group Practices
